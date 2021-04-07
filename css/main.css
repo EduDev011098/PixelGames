@@ -1,0 +1,32 @@
+.navbar{
+    box-shadow: 2px 2px 5px #fff;
+    opacity: 0.9;
+}
+
+.main-header{
+    background: url(../resources/backgroundPIxel.jpeg);
+    background-size: cover;
+    min-height: 700px;
+    position: relative;
+}
+
+.background-overlay{
+    background: rgba(30, 39, 46,.9);
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.color-card{
+    background-color: #272343;
+}
+
+.color-card-primary{
+    background-color: #bae8e8;
+}
+
+.btn-primary{
+    background-color: #5ea3a3;
+}
